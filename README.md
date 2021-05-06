@@ -8,6 +8,8 @@ Full stack developer
 :grey_exclamation: Currently working as a front end developer intern
 </p>
 
+----
+
 <p align="center">
 :floppy_disk: Technologies
 </p>
