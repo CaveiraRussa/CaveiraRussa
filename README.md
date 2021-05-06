@@ -39,7 +39,7 @@ Connect with me:
 
 </p>
 <p align="center">
-<img align="center" src="2574575_print_1.png" width="80">
+ <a href="https://github.com/CaveiraRussa" target="_blank"><img align="center" src="2574575_print_1.png" alt="CaveiraRussa"width="80"/></a>
 </p>
 
 </p>
