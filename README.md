@@ -30,11 +30,14 @@ Full stack developer
 
 ----
 Connect with me:
-
+<p align="left">
+<a href="https://www.linkedin.com/in/luiz-augusto-monteiro-7044ba159/" target="_blank"><img align="center" src="linkedin.png" alt="luiz-augusto-monteiro-7044ba159"width="40" /></a>
+<a href="luiz.m.santiago@hotmail.com" target="_blank"><img align="center" src="o-email.png" alt="luiz.m.santiago@hotmail.com" width="40"/></a>
+</p>
 
 </p>
 <p align="center">
-<img align="center" src="2574575_print_1.png" width="150">
+<img align="center" src="2574575_print_1.png" width="80">
 </p>
 
 </p>
