@@ -2,7 +2,7 @@
 ### ⚡⚡⚡
 ### General Kenobi 🔭
 
-
+<img src="2574575_print_1.png" width="250">
 
 <!--
 **CaveiraRussa/CaveiraRussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
