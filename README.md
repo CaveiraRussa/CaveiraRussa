@@ -14,6 +14,8 @@ Full stack developer
 :floppy_disk: Technologies
 </p>
 
+<div align="center">
+
 | Back end  |  Front end:  | Mobile:| Data Base: | Others: 
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | C# :star::star::star::star: |  Angular 2+ :star::star::star: | React Native :star::star: | MySQL :star::star::star::star: | GIT :star::star::star::star:
@@ -23,14 +25,19 @@ Full stack developer
 | Java :star::star: |                          |                                           |                   |
 | Python :star::star: |                        |                                           |                   |
 
+</div>
+
 ----
 
-<p align="center">
+<div align="center">
 
 [![Luiz Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=caveirarussa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caveirarussa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 ----
+
 Contact me:
 <p align="left">
 <a href="https://www.linkedin.com/in/luiz-augusto-monteiro-7044ba159/" target="_blank"><img align="center" src="linkedin.png" alt="luiz-augusto-monteiro-7044ba159"width="40" /></a>
