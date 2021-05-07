@@ -22,7 +22,7 @@ Full stack developer
 | Node :star::star::star: |  JavaScript :star::star::star: |                               | PostgreSQL :star: | Powerapps :star::star::star::star:
 | C :star::star::star: |  Typescript :star::star::star: |                                  |                   | Power Automate :star::star::star:
 | C++ :star::star::star: |  React :star::star: |                                           |                   | Azure :star::star::star:
-| Java :star::star: |                          |                                           |                   |
+| Java :star::star: |                          |                                           |                   | Unity :star::star::star:
 | Python :star::star: |                        |                                           |                   |
 
 </div>
