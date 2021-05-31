@@ -40,7 +40,7 @@ Full stack developer
 
 Contact me:
 <p align="left">
-<a href="https://www.linkedin.com/in/luiz-augusto-monteiro-7044ba159/" target="_blank"><img align="center" src="linkedin.png" alt="luiz-augusto-monteiro-7044ba159"width="40" /></a>
+<a href="https://www.linkedin.com/in/luizaugustoms/" target="_blank"><img align="center" src="linkedin.png" alt="luizaugustoms"width="40" /></a>
 <a href="mailto:luiz.m.santiago@hotmail.com" target="_blank"><img align="center" src="o-email.png" alt="luiz.m.santiago@hotmail.com" width="40"/></a>
 </p>
 
