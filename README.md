@@ -5,7 +5,7 @@ Full stack developer
 ----
 
 <p align="center">
-:grey_exclamation: Currently working as a front end developer intern
+:grey_exclamation: Currently working as a front end developer
 </p>
 
 ----
