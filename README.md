@@ -5,7 +5,7 @@ Full stack developer
 ----
 
 <p align="center">
-:grey_exclamation: Currently working as a front end developer
+:grey_exclamation: Currently working as a Full stack developer
 </p>
 
 ----
@@ -21,7 +21,7 @@ Full stack developer
 | C# :star::star::star::star: |  Angular 2+ :star::star::star: | React Native :star::star: | MySQL :star::star::star::star: | GIT :star::star::star::star:
 | Node :star::star::star: |  JavaScript :star::star::star: |                               | SQLite :star: :star: | Powerapps :star::star::star::star:
 | C :star::star::star: |  Typescript :star::star::star: |                                  | PostgreSQL :star: | Power Automate :star::star::star:
-| C++ :star::star::star: |  React :star::star::star: |                                           |                   | Azure :star::star::star:
+| C++ :star::star::star: |  React :star::star::star: |                                           | MongoDB :star: | Azure :star::star::star:
 | Java :star::star: |                          |                                           |                   | Unity :star::star::star:
 | Python :star::star: |                        |                                           |                   |
 
